@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Minu.
-- 👀 I’m interested in Data Science related projects
-- 🌱 I’m currently learning GAN
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Data Science related projects.
+- 🌱 I’m currently working on few AI products and AI Coaching program.
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me @ bs.minu@gmail.com
 
 <!---
